@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\bin\Debug\net7.0\ProjetoPassagensDeAviao.exe
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\bin\Debug\net7.0\ProjetoPassagensDeAviao.deps.json
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\bin\Debug\net7.0\ProjetoPassagensDeAviao.runtimeconfig.json
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\bin\Debug\net7.0\ProjetoPassagensDeAviao.dll
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\bin\Debug\net7.0\ProjetoPassagensDeAviao.pdb
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.csproj.AssemblyReference.cache
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.dll
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\refint\ProjetoPassagensDeAviao.dll
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.pdb
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ref\ProjetoPassagensDeAviao.dll
