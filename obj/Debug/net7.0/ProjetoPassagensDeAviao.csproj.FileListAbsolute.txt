@@ -13,3 +13,18 @@ C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\r
 C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.pdb
 C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ProjetoPassagensDeAviao.genruntimeconfig.cache
 C:\Users\38606125814\Desktop\back-end\ProjetoPassagensDeAviao\obj\Debug\net7.0\ref\ProjetoPassagensDeAviao.dll
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\bin\Debug\net7.0\ProjetoPassagensDeAviao.exe
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\bin\Debug\net7.0\ProjetoPassagensDeAviao.deps.json
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\bin\Debug\net7.0\ProjetoPassagensDeAviao.runtimeconfig.json
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\bin\Debug\net7.0\ProjetoPassagensDeAviao.dll
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\bin\Debug\net7.0\ProjetoPassagensDeAviao.pdb
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.AssemblyInfoInputs.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.AssemblyInfo.cs
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.dll
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\refint\ProjetoPassagensDeAviao.dll
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.pdb
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ProjetoPassagensDeAviao.genruntimeconfig.cache
+C:\Users\Luiz\Desktop\SENAI Dev - Arquivos\Atividades back-end\CSharp-ProjetoPassagens\obj\Debug\net7.0\ref\ProjetoPassagensDeAviao.dll
